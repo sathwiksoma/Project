@@ -1,0 +1,13 @@
+.user-details {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .user-details p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .error {
+    color: red;
+  }

@@ -1,0 +1,21 @@
+admin-title{
+    font-size: 200%;
+    font-weight: 600;
+    color:orange ;
+    min-width: 20px;
+    min-height: 20px;
+    height: max-content;   
+}
+.parent{
+    height: 100%;
+    display: flex;
+}
+.child1{
+    width: 15%;
+    padding: 3px
+}
+.child2{
+    float: right;
+    width: 85%;
+    padding: 3px;
+}

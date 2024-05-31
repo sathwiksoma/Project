@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_1.png",
+      "PackagePath": "staticwebassets\\uploads\\food_1.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_13.png",
+      "PackagePath": "staticwebassets\\uploads\\food_13.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_15.png",
+      "PackagePath": "staticwebassets\\uploads\\food_15.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_16.png",
+      "PackagePath": "staticwebassets\\uploads\\food_16.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_19.png",
+      "PackagePath": "staticwebassets\\uploads\\food_19.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_2.png",
+      "PackagePath": "staticwebassets\\uploads\\food_2.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_20.png",
+      "PackagePath": "staticwebassets\\uploads\\food_20.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_21.png",
+      "PackagePath": "staticwebassets\\uploads\\food_21.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_22.png",
+      "PackagePath": "staticwebassets\\uploads\\food_22.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_24.png",
+      "PackagePath": "staticwebassets\\uploads\\food_24.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_26.png",
+      "PackagePath": "staticwebassets\\uploads\\food_26.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_3.png",
+      "PackagePath": "staticwebassets\\uploads\\food_3.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_4.png",
+      "PackagePath": "staticwebassets\\uploads\\food_4.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_6.png",
+      "PackagePath": "staticwebassets\\uploads\\food_6.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_7.png",
+      "PackagePath": "staticwebassets\\uploads\\food_7.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\food_9.png",
+      "PackagePath": "staticwebassets\\uploads\\food_9.png"
+    },
+    {
+      "Id": "C:\\Users\\sathw\\Desktop\\hotpot-ph2\\HotPotProjectbackend\\HotPotProject\\wwwroot\\uploads\\paneertikka.jpg",
+      "PackagePath": "staticwebassets\\uploads\\paneertikka.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotPotProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotPotProject.props",
+      "PackagePath": "build\\HotPotProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotPotProject.props",
+      "PackagePath": "buildMultiTargeting\\HotPotProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotPotProject.props",
+      "PackagePath": "buildTransitive\\HotPotProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

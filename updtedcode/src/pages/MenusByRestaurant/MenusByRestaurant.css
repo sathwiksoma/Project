@@ -1,0 +1,27 @@
+
+  
+  h1, h2 {
+    text-align: center;
+  }
+  .image-upload {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+  
+  .Item-Image {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .input-1 {
+    margin-bottom: 10px;
+  }
+  
+  .preview-image {
+    width: 200px;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  

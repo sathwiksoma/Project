@@ -1,0 +1,61 @@
+.sidebar{
+    width:18%;
+    min-height: 120vh;
+    border: 1.5px solid #a9a9a9;
+    border-top: 0;
+    font-size: max(1vw,10px);
+    background-color: whitesmoke;
+}
+.sidebar-options{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.sidebar-option{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border: 1px solid #a9a9a9;
+    border-right: 0;
+    padding: 8px 10px ;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    background-color: rgb(244, 172, 38);
+}
+.sidebar-option.active{
+    background-color: #fff0ed;
+    border-color: tomato;
+}
+.all-orders-dis{
+    display:flex;
+    flex-direction:row;
+    margin-left: 160%;
+    margin-top: -30%;
+    gap: 50px;
+}
+.sidebar-option button{
+    background: transparent;
+    font-size: 16px;
+    font-weight: 600;
+    color:black;
+    border:1px solid tomato;
+    padding:15px 30px;  
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 14px; 
+}
+.sidebar-option button:hover{
+     background-color: #fff4f2;;
+}
+.sidebar-option button.active {
+    background-color: hsl(359, 100%, 50%); /* Change background color for active button */
+    color: #fff; /* Change text color for active button */
+  }
+  
+@media (max-width:900px) {
+    .sidebar-option p{
+        display: none;
+    }
+    
+}

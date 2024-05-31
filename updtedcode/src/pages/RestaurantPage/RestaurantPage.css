@@ -1,0 +1,9 @@
+.Restaurant-title{
+    font-size: 200%;
+    font-weight: 600;
+    color:orange ;
+   min-width: 20px;
+    min-height: 20px;
+    height: max-content;
+    
+}

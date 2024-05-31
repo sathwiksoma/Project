@@ -1,0 +1,109 @@
+.navbar{
+    padding: 20px 0px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo{
+
+width: 150px;
+}
+
+.navbar-menu{
+    display: flex;
+    list-style: none;
+    gap:20px;
+   color:#49557e;
+   font-size: 18px;
+}
+.navbar-right{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.navbar-search-icon-img
+{
+    display: flex;
+    gap:0px;
+}
+
+.navbar button{
+    background: transparent;
+    font-size: 16px;
+    color:#49557e;
+    border:1px solid tomato;
+    padding:10px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+
+    
+}
+.navbar button:hover{
+    background-color: #fff4f2;
+}
+
+.navbar .active{
+    padding-bottom: 2px;
+    border-bottom: 2px solid #49557e;
+
+}
+.navbar li{
+    cursor: pointer;
+}
+.navbar-searh-icon{
+    position: relative; 
+}
+.navbar-searh-icon .dot{
+    position:absolute;
+    min-width: 10px;
+    min-height: 10px;
+    background-color: tomato;
+    border-radius: 5px;
+    top: -8px;
+    right: -8px;
+}
+ .navbar-search-restaurant{
+    margin-right: 10px;
+}
+.navbar-search-restaurant:hover{
+    background-color: #fff4f2;
+}
+.navbar-search-restaurant input[type="text"] {
+    background: transparent;
+    font-size: 16px;
+    color:#49557e;
+    border: 1px solid grey;
+    padding: 10px ;
+    border-radius: 50px;
+     cursor: pointer;
+     transition: 0.3s;
+    
+  }
+@media(max-width:900px){
+    .navbar .logo{
+        width: 120px;
+    }
+    .navbar-menu{
+        gap:15px;
+        font-size: 16px;
+    }
+    .navbar-right{
+        gap:20px;
+    }
+    .navbar-right img{
+        width: 20px;
+    }
+    .navbar-right button{
+        padding: 7px 20px;
+        font-size: 15px;
+    }
+}
+    @media(max-width:750px){
+       
+        .navbar-menu{
+            display: none;
+        }
+        
+}

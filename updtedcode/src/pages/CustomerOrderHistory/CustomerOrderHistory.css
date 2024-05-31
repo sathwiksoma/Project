@@ -1,0 +1,68 @@
+.customer-content {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+  }
+  
+  .order-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .order-card {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust width to fit three cards in a row */
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+  }
+  
+  .order-card-header {
+    margin-bottom: 10px;
+  }
+  
+  .order-card-header h3 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .order-card-header p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .order-card-content {
+    font-size: 16px;
+  }
+  
+  .order-card-content p {
+    margin: 5px 0;
+  }
+  .filter-options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .filter-options input {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 45%; /* Adjust the width of input fields */
+  }
+  
+  .filter-options input:focus {
+    outline: none;
+    border-color: #007bff; /* Change color on focus */
+  }
+  
+  .filter-options input::placeholder {
+    color: black; /* Placeholder text color */
+  }
+  
+  
